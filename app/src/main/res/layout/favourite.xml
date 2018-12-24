@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+	
+	    
+    <ListView
+        android:id="@+id/Favourite_ListView"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:cacheColorHint="#00000000"
+        android:divider="#FFFFFFFF"
+        android:listSelector="@drawable/customlistitemstyle" >
+    </ListView>
+	    
+   <cabcall.stgeorgediamond.Main.Components.GlowPanel
+           android:id="@+id/Favourite_GlowPanel"
+           android:layout_width="match_parent"
+           android:layout_height="76dp"
+           android:layout_marginTop="10dp"
+    	   android:layout_below="@+id/Favourite_ListView"/>
+    <RelativeLayout 
+         android:id="@+id/Favourite_SubLayout"
+         android:layout_width="wrap_content"
+    	 android:layout_height="wrap_content"
+    	 android:layout_marginTop="30dp"
+    	 android:layout_centerHorizontal="true"
+    	 android:layout_below="@+id/Favourite_ListView">
+        
+    	<TextView 
+	        android:id="@+id/Favourite_Label_Add"    
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="Add Favourite:"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+	        android:layout_marginTop="5dp"
+	        android:textColor="@color/primarytextcolor" 
+	        />
+    
+        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+	        android:id="@+id/Favourite_Button_Add"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:src="@drawable/small_button_add"
+	        android:layout_toRightOf="@+id/Favourite_Label_Add"
+	        android:layout_marginLeft="30dp"/>
+        </RelativeLayout>
+
+
+    <ProgressBar
+        android:id="@+id/Favourite_ActivityIndicator"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent = "true" />
+    
+    
+</RelativeLayout>
+     

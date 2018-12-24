@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/jobdetailsprimarytextcolor"
+        android:text="field1"
+        android:id="@+id/customlistitem1_field1"
+        android:layout_marginLeft="25dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/jobdetailssecondarytextcolor"
+        android:text="field2"
+        android:id="@+id/customlistitem1_field2"
+        android:layout_below="@id/customlistitem1_field1"
+        android:layout_alignLeft="@id/customlistitem1_field1"
+        android:paddingBottom="5dp"
+        
+        />
+
+    <!--  <cabcall.stgeorgediamond.Main.Components.ClickableButton
+        android:id="@+id/customlistitem1_DisclaimerButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/customlistitem1_ActivityIndicator"
+        android:layout_alignTop="@+id/customlistitem1_ActivityIndicator"
+        android:layout_marginLeft="-4dp"
+        android:layout_marginTop ="-5dp"
+        android:layout_centerVertical="true"
+        android:src="@drawable/small_button_disclaimer_warning"
+        android:visibility="invisible" />-->
+
+</RelativeLayout>

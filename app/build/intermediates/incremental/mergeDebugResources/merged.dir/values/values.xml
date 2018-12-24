@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numPax_array">
+        <item>1 Passenger</item>
+        <item>2 Passengers</item>
+        <item>3 Passengers</item>
+        <item>4 Passengers</item>
+    </string-array>
+    <color name="annotationprimarytextcolor">#FF696969</color>
+    <color name="annotationsecondarytextcolor">#FF6d6d6d</color>
+    <color name="backgroundcolorcontext">#00580065</color>
+    <color name="backshadecolor">#2EEECCFF</color>
+    <color name="buttonclickcolor">#87313131</color>
+    <color name="jobdetailsprimaryshadowcolor">#FFFFFFFF</color>
+    <color name="jobdetailsprimarytextcolor">#FF000000</color>
+    <color name="jobdetailssecondaryshadowcolor">#FF3F3F3F</color>
+    <color name="jobdetailssecondarytextcolor">#FFFFFFFF</color>
+    <color name="listviewbackground">#CCBEB9C0</color>
+    <color name="listviewbackgrounddark">#33000000</color>
+    <color name="maplinecolor">#FF7F007F</color>
+    <color name="primarytextcolor">#FFFFFFFF</color>
+    <color name="secondarytextcolor">#FFFF1C16</color>
+    <declare-styleable name="CompoundButton">
+		<attr name="android:button"/>
+	</declare-styleable>
+    <string name="BP1TitleFavourites">Fav: Pickup</string>
+    <string name="BP1TitleNormal">Pickup</string>
+    <string name="BP2TitleFavourites">Fav: Trip Details</string>
+    <string name="BP2TitleNormal">Trip Details</string>
+    <string name="BP3TitleFavourites">Fav: Summary</string>
+    <string name="BP3TitleNormal">Summary</string>
+    <string name="CabWatchTimerName">CabWatchTimer</string>
+    <string name="CityCentreLat"/>
+    <string name="CityCentreLon"/>
+    <string name="ConfirmationSuccessMsgFavourites">Your Profile has been updated ...</string>
+    <string name="ConfirmationSuccessMsgNormal">Your Taxi has been booked ...</string>
+    <string name="ConfirmationTitleFavourites">Favourites : Confirmation</string>
+    <string name="ConfirmationTitleNormal">Confirmation</string>
+    <string name="DisclaimerString1">This fare estimate includes GST.</string>
+    <string name="DisclaimerString2">The fare estimate is a guide only and does not take into account traffic conditions, alternate routes, weather and other unforeseen circumstances.</string>
+    <string name="DisclaimerString3">The estimate does not include tolls, airport or public holiday surcharges.</string>
+    <string name="DisclaimerString4">The estimate is indicative only and does not represent a "quote" for payment purposes.</string>
+    <string name="DummySpid">1473716</string>
+    <string name="FirstTimeNoID">Please enter the ID sent by SMS in the ID field above</string>
+    <string name="FirstTimeNoMob">Please enter a valid 10 or 9 digit mobile number in the mobile number field above</string>
+    <string name="FirstTimeNoName">Please enter your name in the name field above</string>
+    <string name="FleetNumber">3</string>
+    <string name="FutureBookingString">Taxi is scheduled for the </string>
+    <string name="GeocodeErrorString"> was unable to display your exact pickup place on the map. However once a taxi is assigned, the taxi will appear on the map as normal</string>
+    <string name="GoogleDirectionsAddress">https://maps.googleapis.com/maps/api/directions/json?origin=%1$s&amp;destination=%2$s&amp;sensor=true</string>
+    <string name="GoogleKey">0BFGdiUA8oXvZ_gTp8KlBgO6i8dCSl3aIFLqKZA</string>
+    <string name="IgnoreNodes">xs:schema,Id</string>
+    <string name="LabelCabWatch">Cab Watch</string>
+    <string name="LabelJobDetails">Job Details</string>
+    <string name="Password">chris</string>
+    <string name="PickupLocationAnnotTitle">Pick Up:</string>
+    <string name="PlaceDatabase">placedatabase.txt</string>
+    <string name="PotenshNoInternetError">The connection could not be made. Please ensure the device has internet access.</string>
+    <string name="PreferencesTag">%1$s_SharedPrefs</string>
+    <string name="PrefsMobileNumberKey">MobileNumberKey</string>
+    <string name="PrefsNameKey">NameKey</string>
+    <string name="PrefsSPIDKey">SPIDKey</string>
+    <string name="PrefsUserIdKey">UserIdKey</string>
+    <string name="RankDatabase">rankdatabase.txt</string>
+    <string name="SVC_PlaceList">Place List</string>
+    <string name="SVC_PlaceSearch">Type a Place Name</string>
+    <string name="SVC_StreetList">Street List</string>
+    <string name="SVC_StreetSearch">Type a Street Name</string>
+    <string name="SVC_SuburbList">Suburb List</string>
+    <string name="SVC_SuburbSearch">Type a Suburb Name</string>
+    <string name="StateAbbreviation">NSW</string>
+    <string name="StreetDatabase">streetdatabase.txt</string>
+    <string name="TabCabWatch">cab watch</string>
+    <string name="TabJobDetails">job details</string>
+    <string name="TaxiProviderDisplayPhoneNum">13 21 88</string>
+    <string name="TaxiProviderName">St George</string>
+    <string name="TaxiProviderPhoneNum">132188</string>
+    <string name="TripString">Trip: %1$s to %2$s</string>
+    <string name="UserNumber">777780</string>
+    <string name="WebServiceAddress">http://120.151.89.225/ECWebService/BookingService.asmx</string>
+    <string name="WelcomeText">Welcome to StGeorgeDiamond</string>
+    <string name="app_name">StGeorgeDiamond</string>
+    <string name="contactnametag">A </string>
+    <string name="kStatusCancelled">Booking has been cancelled</string>
+    <string name="kStatusComplete">Booking Completed</string>
+    <string name="kStatusFutureBooking">Taxi is scheduled for the %1$s at %2$s</string>
+    <string name="kStatusLookingForCab">Looking For A Cab</string>
+    <string name="kStatusNoJob">Driver unable to find you: Pls Call %1$s on %2$s</string>
+    <string name="kStatusOnWay">Taxi %1$s is %2$skm away</string>
+    <string name="kStatusPickedUp">You have been picked up</string>
+    <string name="kStatusProblem">Booking Problem: Pls Call %1$s on %2$s</string>
+    <string name="kStatusRecall">Driver unable to pick you up, Looking for a new cab…</string>
+</resources>

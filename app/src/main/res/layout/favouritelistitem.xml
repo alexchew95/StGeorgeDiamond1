@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="vertical" >
+
+    <!-- Favourite Name -->
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/primarytextcolor"
+        android:text="fav_name"
+        android:id="@+id/favouritelistitem_fav_name"
+        android:layout_marginLeft="10dp"
+        />
+    
+    <!-- Pickup Street / Place -->
+	<TextView
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/jobdetailsprimarytextcolor"
+        android:text="From: "
+        android:layout_toRightOf="@+id/favouritelistitem_fav_name"
+        android:id="@+id/favouritelistitem_pu_street"
+        android:layout_alignTop="@+id/favouritelistitem_fav_name"
+        />
+	
+	<!--  Pickup Suburb -->
+
+	<TextView
+	    android:id="@+id/favouritelistitem_pu_suburb"
+	    android:layout_width="140dp"
+	    android:layout_height="wrap_content"
+	    android:layout_alignLeft="@+id/favouritelistitem_pu_street"
+	    android:layout_below="@+id/favouritelistitem_pu_street"
+	    android:text="pu_suburb"
+	    android:textAppearance="?android:attr/textAppearanceSmall"
+	    android:textColor="@color/jobdetailsprimarytextcolor" />
+	
+	<!-- Dest Suburb -->
+	<TextView
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="@color/jobdetailssecondarytextcolor"
+        android:text="To: "
+        android:id="@+id/favouritelistitem_dest_suburb"
+        android:layout_below="@+id/favouritelistitem_pu_suburb"
+        android:layout_alignLeft="@+id/favouritelistitem_pu_suburb"
+        android:paddingBottom="5dp"
+        />
+
+</RelativeLayout>

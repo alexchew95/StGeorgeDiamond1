@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+   <com.google.android.maps.MapView
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/RankFinder_MapView"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:clickable="true"
+	    android:apiKey="@string/GoogleKey"/>
+    
+    <ImageView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/RankFinder_StatusContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:contentDescription="Status Container"
+        android:src="@drawable/background_item_320x65_status_container" />
+    
+    <ProgressBar
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/RankFinder_ActivityIndicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="22dp"
+        android:layout_marginRight="15dp"
+        style="?android:attr/progressBarStyleSmall"  />
+     
+      <TextView
+            android:id="@+id/RankFinder_Label_DetailsText"
+            android:layout_width="250dp"
+            android:layout_height="65dp"
+            android:layout_marginLeft = "5dp"
+            android:text="You are x km away from the Somewhere Rank"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/jobdetailssecondarytextcolor"
+            android:shadowDy="-1"
+            android:shadowRadius="1"
+            android:textSize="15dp"
+            android:gravity="center" />
+</RelativeLayout>

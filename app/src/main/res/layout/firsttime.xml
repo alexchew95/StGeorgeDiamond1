@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/frameLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        
+            >
+     <cabcall.stgeorgediamond.Main.Components.GlowPanel
+            android:id="@+id/panel1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+    </FrameLayout>
+    
+    <RelativeLayout
+        android:id="@+id/BookingProcess1_RelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <EditText
+            android:id="@+id/FirstTime_TextField_Name"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="150dp" 
+            android:text=""/>
+            
+        <EditText
+            android:id="@+id/FirstTime_TextField_MobileNumber"
+            android:layout_width="140dp"
+            android:layout_height="47dp"
+            android:layout_below="@id/FirstTime_TextField_Name"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="38dp" 
+            android:text=""
+            android:inputType="phone"/>
+
+        <EditText
+            android:id="@+id/FirstTime_TextField_IDNumber"
+            android:layout_below="@id/FirstTime_TextField_MobileNumber"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content" 
+            android:layout_marginTop="38dp"
+            android:layout_marginLeft="150dp" 
+            android:text=""
+            android:inputType="number"/>    
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="35dp"
+            android:layout_alignTop="@id/FirstTime_TextField_Name"
+            android:textAppearance="?android:attr/textAppearanceMedium" 
+            android:textColor="@color/primarytextcolor"/>
+        
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:text="Mobile Number"
+            android:layout_marginTop="0dp"
+            android:layout_marginLeft="35dp"
+            android:layout_alignTop="@id/FirstTime_TextField_MobileNumber"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primarytextcolor" />
+        
+        <TextView
+            android:id="@+id/FirstTime_Label_IDNumber"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="ID Number"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="35dp"
+            android:layout_alignTop="@id/FirstTime_TextField_IDNumber"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primarytextcolor" />
+        
+        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/FirstTime_Button_Finish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/FirstTime_TextField_IDNumber"
+            android:layout_alignRight="@id/FirstTime_TextField_IDNumber"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/button_finish" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="26dp"
+            android:text="@string/WelcomeText"
+            android:textAppearance="?android:attr/textAppearanceLarge" 
+            android:textColor="@color/primarytextcolor" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_below="@+id/textView1"
+            android:layout_marginTop="38dp"
+            android:text="Please enter the following:"
+            android:textAppearance="?android:attr/textAppearanceMedium" 
+            android:textColor="@color/primarytextcolor" />
+
+        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/FirstTime_Button_GetId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/textView3"
+            android:layout_toRightOf="@+id/FirstTime_TextField_MobileNumber"
+            android:src="@drawable/button_get_id"
+            android:visibility="invisible" />
+
+    </RelativeLayout>
+ 
+    
+
+</FrameLayout>
+
+    

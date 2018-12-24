@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cabcall.stgeorgediamond"
+    android:versionCode="3"
+    android:versionName="2.03" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <uses-configuration
+        android:reqFiveWayNav="false"
+        android:reqHardKeyboard="false"
+        android:reqKeyboardType="nokeys"
+        android:reqNavigation="nonav"
+        android:reqTouchScreen="finger" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" />
+
+    <application
+        android:name="cabcall.stgeorgediamond.Main.MainApplication"
+        android:debuggable="true"
+        android:icon="@drawable/android_icon"
+        android:label="@string/app_name"
+        android:testOnly="true" >
+        <uses-library android:name="com.google.android.maps" />
+
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.SplashActivity"
+            android:label="StGeorgeDiamond"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.HomeScreenActivity"
+            android:label="StGeorgeDiamond"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.BookATaxiActivity"
+            android:label="Book a Taxi"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.Favourites.FavouriteHome"
+            android:label="Favourites"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.History.HistoryActivity"
+            android:label="History"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.RankFinder.RankFinderActivity"
+            android:label="Rank Finder"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.BookingProcess.BookingProcess1"
+            android:label="Pickup"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.BookingProcess.BookingProcess2"
+            android:label="Trip Details"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.BookingProcess.BookingProcess3"
+            android:label="Summary"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.BookingProcess.Confirmation"
+            android:label="Confirmation"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.FirstTime"
+            android:label="Settings"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.BookingProcess.SearchViewController"
+            android:label="Search"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.History.JobDetails"
+            android:label="Job Details"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.Favourites.FavouriteDetails"
+            android:label="Favourite Details"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.BookingProcess.Disclaimer"
+            android:label="Fare Estimate"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.History.SwitchController"
+            android:label="Switch Controller"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.History.CabWatch"
+            android:label="Cab Watch"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cabcall.stgeorgediamond.Main.BookingProcess.BookHere"
+            android:label="Book Here"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

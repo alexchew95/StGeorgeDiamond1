@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:BookingServices="http://ecabcall.org/" xsl:version="1.0">
+	<soap:Body>
+	    
+	</soap:Body>
+</soap:Envelope>

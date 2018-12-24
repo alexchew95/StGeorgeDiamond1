@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     android:background="@drawable/background" >
+	
+    <ListView
+        android:id="@+id/BookingProcess3_ListView"
+        android:layout_width="match_parent"
+        android:layout_height="320dp"
+        android:cacheColorHint="#00000000"
+        android:divider="#FFFFFFFF"
+        android:listSelector="@drawable/customlistitemstyle">
+    </ListView>
+    
+     <cabcall.stgeorgediamond.Main.Components.GlowPanel
+            android:id="@+id/BookingProcess3_GlowPanel"
+            android:layout_width="fill_parent"
+            android:layout_height="170dp"
+            android:layout_below="@id/BookingProcess3_ListView"
+            android:layout_alignBottom="@+id/BookingProcess3_Button_Confirm"
+            android:layout_marginBottom="-20dp"
+            android:layout_marginTop="10dp"/>
+
+    
+
+    <TextView
+        android:id="@+id/BookingProcess3_Label_DisclaimerLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fare Estimate"
+        android:layout_below="@id/BookingProcess3_ListView"
+        android:layout_marginTop="30dp"
+        android:layout_alignLeft="@+id/BookingProcess3_Button_Confirm"
+        android:layout_marginLeft="3dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/primarytextcolor"  />
+
+    <TextView
+        android:id="@+id/BookingProcess3_Label_DisclaimerDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:layout_alignLeft= "@+id/BookingProcess3_Label_DisclaimerLabel"
+        android:text="Downloading Fare Estimate..."
+        android:layout_alignTop= "@+id/BookingProcess3_Button_Disclaimer"
+        android:layout_alignBottom= "@+id/BookingProcess3_Button_Disclaimer"
+        android:textAppearance="?android:attr/textAppearanceSmall" 
+        android:textColor="@color/primarytextcolor" />
+    
+    <cabcall.stgeorgediamond.Main.Components.ClickableButton
+        android:id="@+id/BookingProcess3_Button_Confirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/BookingProcess3_Label_DisclaimerDetails"
+        android:layout_marginTop="1dp"
+        android:src="@drawable/button_book" />
+
+    <ProgressBar
+        android:id="@+id/BookingProcess3_ActivityIndicator"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_alignTop="@+id/BookingProcess3_Button_Disclaimer"
+        android:layout_alignBottom="@+id/BookingProcess3_Button_Disclaimer"
+        android:layout_alignRight="@+id/BookingProcess3_Button_Disclaimer"
+        android:layout_alignLeft="@+id/BookingProcess3_Button_Disclaimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp" />
+
+    <cabcall.stgeorgediamond.Main.Components.ClickableButton
+        android:id="@+id/BookingProcess3_Button_Disclaimer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="25dp"
+        android:layout_below="@+id/BookingProcess3_Label_DisclaimerLabel"
+        android:layout_marginTop="-10dp"
+        android:src="@drawable/small_button_disclaimer_warning" />
+
+</RelativeLayout>

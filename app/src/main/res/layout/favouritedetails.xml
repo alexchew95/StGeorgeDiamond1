@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/FavouriteDetails_RelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        
+        <ImageView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/FavouriteDetails_StatusContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:contentDescription="Status Container"
+        android:src="@drawable/background_item_320x100_status_container" />
+
+        <!-- Fav Name -->
+        <TextView
+            android:id="@+id/FavouriteDetails_Label_FavName"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:text="Favourite Name"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/jobdetailsprimarytextcolor"
+            android:shadowDy="-1"
+            android:shadowRadius="1"
+            android:layout_alignTop="@+id/FavouriteDetails_StatusContainer"
+            android:layout_alignBottom="@+id/FavouriteDetails_StatusContainer"
+            android:gravity="center_vertical"/>
+        <!-- PU Street -->
+        <TextView
+            android:id="@+id/FavouriteDetails_Label_PUStreet"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp"
+            android:text="From: Pickup Street"
+            android:layout_alignParentRight="true"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/jobdetailssecondarytextcolor" 
+            android:shadowDy="-1"
+            android:shadowRadius="1"
+            android:gravity="right"/>
+
+        <!-- PU Suburb -->
+        <TextView
+            android:id="@+id/FavouriteDetails_Label_PUSuburb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_below="@+id/FavouriteDetails_Label_PUStreet"
+            android:text="Pickup Suburb"
+            android:layout_alignLeft="@+id/FavouriteDetails_Label_PUStreet"
+            android:layout_alignParentRight="true"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/jobdetailsprimarytextcolor" 
+            android:shadowDy="-1"
+            android:shadowRadius="1"
+            android:gravity="right"/>
+
+        <!-- Dest Suburb -->
+        <TextView
+            android:id="@+id/FavouriteDetails_Label_DestSuburb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_below="@+id/FavouriteDetails_Label_PUSuburb"
+            android:layout_alignLeft="@+id/FavouriteDetails_Label_PUStreet"
+            android:text="To: Destination Suburb"
+            android:layout_alignParentRight="true"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/jobdetailssecondarytextcolor"
+            android:shadowDy="-1"
+            android:shadowRadius="1"
+            android:gravity="right"/>
+
+        <!-- New Booking Button -->
+        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/FavouriteDetails_Button_NewBooking"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="125dp"
+            android:layout_marginLeft="25dp"
+            android:src="@drawable/button_new_booking" />
+
+        <!-- Edit Favourite button -->
+        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/FavouriteDetails_Button_EditFavourite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/FavouriteDetails_Button_NewBooking"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/button_edit_favourite" />
+
+        <!-- Delete button -->
+        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/FavouriteDetails_Button_DeleteFavourite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/FavouriteDetails_Button_NewBooking"
+            android:layout_below="@+id/FavouriteDetails_Button_NewBooking"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="25dp"
+            android:src="@drawable/button_delete_favourite" />
+       <cabcall.stgeorgediamond.Main.Components.GlowPanel
+            android:id="@+id/FavouriteDetails_GlowPanel"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_marginTop="100dp"
+        	/>
+
+	    </RelativeLayout>
+
+</FrameLayout>
+
+    

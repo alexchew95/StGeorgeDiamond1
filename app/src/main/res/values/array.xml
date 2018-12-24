@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numPax_array">
+        <item >1 Passenger</item>
+        <item >2 Passengers</item>
+        <item >3 Passengers</item>
+        <item >4 Passengers</item>
+    </string-array>
+    
+</resources>

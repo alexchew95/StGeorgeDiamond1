@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+	<FrameLayout
+        android:id="@+id/frameLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        
+            >
+        <cabcall.stgeorgediamond.Main.Components.GlowPanel
+            android:id="@+id/panel1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+    </FrameLayout>
+    
+    <RelativeLayout
+        android:id="@+id/HomeScreen_RelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        
+        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/HomeScreen_Button_BookTaxi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="35dp"
+            android:minHeight="25dp"
+            android:minWidth="25dp"
+            android:src="@drawable/square_button_taxi" />
+
+        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/HomeScreen_Button_History"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/HomeScreen_Button_BookTaxi"
+            android:layout_below="@id/HomeScreen_Button_BookTaxi"
+            android:layout_marginTop="22dp"
+            android:minHeight="25dp"
+            android:minWidth="25dp"
+            android:src="@drawable/square_button_history" />
+        
+        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/HomeScreen_Button_Favourites"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/HomeScreen_Button_BookTaxi"
+            android:layout_below ="@id/HomeScreen_Button_History"
+            android:layout_marginTop="22dp"
+            android:minHeight="25dp"
+            android:minWidth="25dp"
+            android:src="@drawable/square_button_favourites" />
+        
+        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/HomeScreen_Button_Find_Rank"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/HomeScreen_Button_BookTaxi"
+            android:layout_below="@id/HomeScreen_Button_Favourites"
+            android:layout_marginTop="22dp"
+            android:minHeight="50dp"
+            android:minWidth="50dp"
+            android:src="@drawable/square_button_find_rank" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/HomeScreen_Button_BookTaxi"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="25dp"
+            android:layout_toRightOf="@id/HomeScreen_Button_BookTaxi"
+            android:text="Book a Taxi"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primarytextcolor" />
+        
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/HomeScreen_Button_History"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="25dp"
+            android:layout_toRightOf="@id/HomeScreen_Button_BookTaxi"
+            android:text="View History"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primarytextcolor" />
+        
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/HomeScreen_Button_Favourites"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="25dp"
+            android:layout_toRightOf="@id/HomeScreen_Button_BookTaxi"
+            android:text="Edit Favourites"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primarytextcolor" />
+        
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/HomeScreen_Button_Find_Rank"
+            android:layout_marginLeft="45dp"
+            android:layout_marginTop="25dp"
+            android:layout_toRightOf="@id/HomeScreen_Button_BookTaxi"
+            android:text="Find a Rank"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primarytextcolor" />
+        
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="40dp"
+            android:layout_marginRight="40dp"
+            android:src="@drawable/logo_taxi_co" />
+        
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="220dp"
+            android:layout_marginTop="5dp"
+            android:text="@string/TaxiProviderDisplayPhoneNum"
+            android:textColor="@color/primarytextcolor"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+
+    </RelativeLayout>
+ 
+    
+
+</FrameLayout>
+
+    

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    
+       <com.google.android.maps.MapView
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/CabWatch_MapView"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:clickable="true"
+	    android:apiKey="@string/GoogleKey"/>
+    
+    <ImageView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/CabWatch_StatusContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:contentDescription="Status Container"
+        android:src="@drawable/background_item_320x100_status_container" />
+
+    <TextView
+        android:id="@+id/CabWatch_Label_TripLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="10dp"
+        android:text="Trip:"
+        android:textAppearance="?android:attr/textAppearanceSmall" 
+        android:textColor="@color/jobdetailssecondarytextcolor" 
+        android:shadowDy="-1"
+        android:shadowRadius="1"/>
+
+    <TextView
+        android:id="@+id/CabWatch_Label_JobStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Downloading Job Status..."
+        android:layout_marginLeft = "90dp"
+        android:layout_marginRight = "60dp"
+        android:layout_marginTop="19dp"   
+        android:layout_below="@+id/CabWatch_Label_TripLabel"
+        android:textAppearance="?android:attr/textAppearanceSmall" 
+        android:textColor="@color/jobdetailsprimarytextcolor"
+        android:shadowDy="-1"
+        android:shadowRadius="1"/>
+
+    <ImageView
+        android:id="@+id/CabWatch_Image_JobStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+		android:layout_marginLeft="15dp"
+		android:scaleType="matrix"
+        android:src="@drawable/status_icon_looking_for_a_cab" 
+       />
+    
+     <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/CabWatch_Button_RefreshButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="260dp"
+			android:layout_below="@+id/CabWatch_Label_TripLabel"
+			android:layout_marginTop="12dp"
+            android:src="@drawable/small_button_refresh" />
+        
+      <ProgressBar
+          android:id="@+id/CabWatch_StatusUpdater"
+          style="?android:attr/progressBarStyleSmall"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignLeft="@+id/CabWatch_Button_RefreshButton"
+          android:layout_alignTop="@+id/CabWatch_Button_RefreshButton"
+          android:layout_alignRight="@+id/CabWatch_Button_RefreshButton"
+          android:layout_alignBottom="@+id/CabWatch_Button_RefreshButton"
+          android:layout_margin="7dp"/>
+
+</RelativeLayout>

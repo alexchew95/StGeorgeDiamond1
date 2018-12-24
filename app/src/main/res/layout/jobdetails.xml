@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background_item_job_details_panel"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/JobDetails_RelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/JobDetails_Label_PUDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"
+            android:text="Pickup Date"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/jobdetailssecondarytextcolor"
+            android:shadowDy="-1"
+            android:shadowRadius="1"/>
+
+        <TextView
+            android:id="@+id/JobDetails_Label_PUTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_below="@+id/JobDetails_Label_PUDate"
+            android:text="Pickup Time"
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="@color/jobdetailsprimarytextcolor"
+            android:shadowDy="-1"
+            android:shadowRadius="1"/>
+
+        <TextView
+            android:id="@+id/JobDetails_Label_BookingNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_below="@+id/JobDetails_Label_PUTime"
+            android:text="Booking #"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/jobdetailssecondarytextcolor" 
+            android:shadowDy="-1"
+            android:shadowRadius="1"/>
+
+        <TextView
+            android:id="@+id/JobDetails_Label_PUStreet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="10dp"
+            android:text="Pickup Street"
+            android:layout_alignParentRight="true"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/jobdetailssecondarytextcolor" 
+            android:shadowDy="-1"
+            android:shadowRadius="1"/>
+
+        <TextView
+            android:id="@+id/JobDetails_Label_PUSuburb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_below="@+id/JobDetails_Label_PUStreet"
+            android:text="Pickup Suburb"
+            android:layout_alignParentRight="true"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/jobdetailsprimarytextcolor" 
+            android:shadowDy="-1"
+            android:shadowRadius="1"/>
+
+        <TextView
+            android:id="@+id/JobDetails_Label_DestSuburb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_below="@+id/JobDetails_Label_PUSuburb"
+            android:text="Destination Suburb"
+            android:layout_alignParentRight="true"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/jobdetailssecondarytextcolor"
+            android:shadowDy="-1"
+            android:shadowRadius="1"/>
+
+        <ImageView
+            android:id="@+id/JobDetails_Image_JobStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="20dp"
+            android:minHeight="25dp"
+            android:minWidth="25dp"
+            android:layout_below="@id/JobDetails_Label_BookingNo"
+            android:src="@drawable/status_icon_looking_for_a_cab" />
+
+        <TextView
+            android:id="@+id/JobDetails_Label_JobStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Downloading Job Status..."
+            android:layout_marginLeft="90dp"
+            android:layout_marginRight="40dp"
+            android:layout_alignBottom = "@+id/JobDetails_Image_JobStatus"
+            android:layout_alignTop="@+id/JobDetails_Image_JobStatus"    
+            android:gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/jobdetailssecondarytextcolor"
+            android:shadowDy="-1"
+            android:shadowRadius="1" />
+        
+         <!-- Get Status button -->
+
+        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/JobDetails_Button_RefreshButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="275dp"
+			android:layout_marginTop="93dp"
+            android:src="@drawable/small_button_refresh" />
+        
+        <ProgressBar
+            android:id="@+id/JobDetails_StatusUpdater"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/JobDetails_Button_RefreshButton"
+            android:layout_alignTop="@+id/JobDetails_Button_RefreshButton"
+            android:layout_alignRight="@+id/JobDetails_Button_RefreshButton"
+            android:layout_alignBottom="@+id/JobDetails_Button_RefreshButton"
+            android:layout_margin = "7dp"
+            />
+        
+       <cabcall.stgeorgediamond.Main.Components.GlowPanel
+            android:id="@+id/JobDetails_GlowPanel"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="175dp"
+            android:layout_marginBottom="90dp"
+            />
+
+        <!-- Current Job Details Buttons -->
+       
+	        <!-- Ring Taxi Co button -->
+	        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+	            android:id="@+id/JobDetails_Button_RingTaxiCo"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginTop="200dp"
+	            android:layout_marginLeft="25dp"
+	            android:src="@drawable/button_ring_taxi_co" />
+	
+	        <!-- Cancel Booking button -->
+	        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+	            android:id="@+id/JobDetails_Button_CancelBooking"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_below="@+id/JobDetails_Button_RingTaxiCo"
+	            android:layout_marginLeft="25dp"
+	            android:layout_marginTop="10dp"
+	            android:src="@drawable/button_cancel_booking" />
+	
+	        <!-- Add To Favourites button -->
+	        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+	            android:id="@+id/JobDetails_Button_AddToFavourites"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_below="@+id/JobDetails_Button_CancelBooking"
+	            android:layout_marginTop="35dp"
+	            android:layout_marginLeft="25dp"
+	            android:src="@drawable/button_new_favourite" />
+
+        <!-- History Job Details Buttons -->
+        
+	        <!-- New Booking button-->
+	        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+	            android:id="@+id/JobDetails_Button_NewBooking"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginTop="200dp"
+	            android:layout_marginLeft="25dp"
+	            android:visibility="invisible"
+	            android:src="@drawable/button_new_booking" />
+	
+	        <!-- Add To Favourites button for History-->
+	        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+	            android:id="@+id/JobDetails_Button_History_AddToFavourites"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:visibility="invisible"
+	            android:layout_below="@+id/JobDetails_Button_NewBooking"
+	            android:layout_marginLeft="25dp"
+	            android:layout_marginTop="10dp"
+	            android:src="@drawable/button_new_favourite" />
+	    </RelativeLayout>
+
+</FrameLayout>
+
+    

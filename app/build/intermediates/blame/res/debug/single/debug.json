@@ -1,0 +1,1178 @@
+[
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_small_button_blank.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\small_button_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_continue.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\button_continue.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_square_button_book_new.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\square_button_book_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_cancel_booking.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\button_cancel_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_grey_right_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_grey_right_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_crimes_logo.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\crimes_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_annotation_taxi_annotation.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\annotation_taxi_annotation.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_edit_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\button_edit_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_get_id.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\button_get_id.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_item_job_details_panel.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\background_item_job_details_panel.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_white_middle_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_white_middle_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_square_button_find_rank.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\square_button_find_rank.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_book_lowlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\icon_book_lowlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_book_highlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\icon_book_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_current_loc.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\icon_current_loc.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_grey_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_grey_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_annotation_taxi_annotation.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\annotation_taxi_annotation.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_book_lowlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\icon_book_lowlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_red_pin.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\icon_red_pin.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_square_button_favourites.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\square_button_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_bookataxi.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\bookataxi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_status_icon_successful_job.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\status_icon_successful_job.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_white_middle.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_white_middle.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_continue_long.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\button_continue_long.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_finish.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\button_finish.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_annotation_taxi_annotation.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\annotation_taxi_annotation.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_new_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\button_new_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_item_320x100_status_container.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\background_item_320x100_status_container.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_map_highlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\icon_map_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_book_highlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\icon_book_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_grey_middle_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_grey_middle_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_new_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\button_new_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_grey_left.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_grey_left.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_small_button_add.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\small_button_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_square_button_find_rank.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\square_button_find_rank.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background_item_280x60.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\background_item_280x60.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_edit_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\button_edit_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_status_icon_successful_job.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\status_icon_successful_job.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_cancel_booking.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\button_cancel_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_grey_left_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_grey_left_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_bookhere.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\bookhere.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_backshadeexpandable.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\backshadeexpandable.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_small_button_add.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\small_button_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_delete_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\button_delete_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_tick.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\icon_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_book.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\button_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_status_icon_booking_problem.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\status_icon_booking_problem.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_item_280x380_back_shade.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\background_item_280x380_back_shade.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background_item_280x120.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\background_item_280x120.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_item_job_details_set_screen.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\background_item_job_details_set_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_ring_taxi_co.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\button_ring_taxi_co.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_customlistitemstyle.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable\\customlistitemstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_white_left_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_white_left_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash_screen.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_item_280x60.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\background_item_280x60.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_delete_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\button_delete_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_grey_middle_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_grey_middle_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_favouritelistitem.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\favouritelistitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_delete_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\button_delete_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo_taxi_co.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\logo_taxi_co.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_save_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\button_save_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_grey_right_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_grey_right_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_small_button_refresh.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\small_button_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_annotation_divider.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\annotation_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_tick_small.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\icon_tick_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_bookingprocess2.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\bookingprocess2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_map_highlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\icon_map_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background_item_280x120.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\background_item_280x120.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_backshadeexpandable.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\backshadeexpandable.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_finish.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\button_finish.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_crimes_logo.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\crimes_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_grey_left_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_grey_left_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_android_icon.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\android_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_customlistitem1.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\customlistitem1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_small_button_blank.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\small_button_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background_item_280x335_back_shade.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\background_item_280x335_back_shade.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_grey_right_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_grey_right_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_annotation_divider.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\annotation_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_small_button_refresh.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\small_button_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_square_button_taxi.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\square_button_taxi.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_item_280x380_back_shade.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\background_item_280x380_back_shade.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_red_pin.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\icon_red_pin.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_square_button_taxi.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\square_button_taxi.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash_screen.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background_item_320x65_status_container.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\background_item_320x65_status_container.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_status_icon_taxi_on_it_s_way.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\status_icon_taxi_on_it_s_way.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_white.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_white.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_new_booking.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\button_new_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_item_280x335_back_shade.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\background_item_280x335_back_shade.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_grey_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_grey_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_square_button_find_rank.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\square_button_find_rank.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_status_icon_successful_pickup.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\status_icon_successful_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_annotation_taxi_annotation.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\annotation_taxi_annotation.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_status_icon_taxi_on_it_s_way.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\status_icon_taxi_on_it_s_way.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_book_highlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\icon_book_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_white_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_white_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_continue_long.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\button_continue_long.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_tick.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\icon_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_cabwatch.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable\\ic_tab_cabwatch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background_item_280x60.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\background_item_280x60.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_android_icon.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\android_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_new_booking.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\button_new_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_book.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\button_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_new_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\button_new_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_square_button_book_new.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\square_button_book_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_new_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\button_new_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_ring_taxi_co.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\button_ring_taxi_co.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_square_button_book_here.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\square_button_book_here.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_cancel_booking.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\button_cancel_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background_item_280x380_back_shade.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\background_item_280x380_back_shade.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_searchviewcontroller.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\searchviewcontroller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_bookingprocess3.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\bookingprocess3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_grey.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_grey.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_small_button_add.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\small_button_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_red_pin.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\icon_red_pin.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_small_button_blank.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\small_button_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_status_icon_successful_pickup.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\status_icon_successful_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_favouritedetails.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\favouritedetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_square_button_book_favourites.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\square_button_book_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_disclaimer.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\disclaimer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_small_button_disclaimer_warning.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\small_button_disclaimer_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_grey_right_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_grey_right_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_small_button_refresh.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\small_button_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background_item_job_details_panel.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\background_item_job_details_panel.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_map_lowlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\icon_map_lowlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_item_280x120.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\background_item_280x120.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_status_icon_booking_problem.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\status_icon_booking_problem.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_square_button_favourites.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\square_button_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_status_icon_looking_for_a_cab.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\status_icon_looking_for_a_cab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_grey_right.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_grey_right.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_continue.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\button_continue.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_book_highlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\icon_book_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_grey_left_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_grey_left_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_status_icon_taxi_on_it_s_way.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\status_icon_taxi_on_it_s_way.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_confirmation.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\confirmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_square_button_history.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\square_button_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_item_280x335_back_shade.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\background_item_280x335_back_shade.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_continue_long.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\button_continue_long.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_cancel_booking.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\button_cancel_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_square_button_favourites.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\square_button_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_white_right.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_white_right.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_square_button_history.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\square_button_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_tick_small.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\icon_tick_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_status_icon_cancelled_booking.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\status_icon_cancelled_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_finish.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\button_finish.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_item_320x65_status_container.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\background_item_320x65_status_container.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_grey_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_grey_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_square_button_taxi.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\square_button_taxi.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_status_icon_cancelled_booking.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\status_icon_cancelled_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_delete_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\button_delete_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_status_icon_taxi_on_it_s_way.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\status_icon_taxi_on_it_s_way.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_book_lowlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\icon_book_lowlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_middle.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable\\segment_radio_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_history.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_square_button_book_favourites.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\square_button_book_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_save_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\button_save_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_square_button_book_favourites.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\square_button_book_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_square_button_book_new.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\square_button_book_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_status_icon_booking_problem.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\status_icon_booking_problem.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_tick.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\icon_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_status_icon_looking_for_a_cab.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\status_icon_looking_for_a_cab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_small_button_blank.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\small_button_blank.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_taxi_co.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\logo_taxi_co.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_white.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_white.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_firsttime.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\firsttime.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_white_left_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_white_left_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background_item_job_details_set_screen.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\background_item_job_details_set_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_get_id.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\button_get_id.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background_item_job_details_set_screen.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\background_item_job_details_set_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_continue.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\button_continue.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_grey_middle_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_grey_middle_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_square_button_book_here.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\square_button_book_here.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_red_pin.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\icon_red_pin.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_status_icon_looking_for_a_cab.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\status_icon_looking_for_a_cab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_map_lowlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\icon_map_lowlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_grey_middle.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_grey_middle.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background_item_320x65_status_container.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\background_item_320x65_status_container.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_save_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\button_save_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_map_highlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\icon_map_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_map_highlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\icon_map_highlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_telephone.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\icon_telephone.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_white_right_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_white_right_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_book.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\button_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_screen_full.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\home_screen_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_crimes_logo.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\crimes_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_item_280x60.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\background_item_280x60.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background_item_320x100_status_container.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\background_item_320x100_status_container.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_status_icon_cancelled_booking.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\status_icon_cancelled_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_segment_button.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable\\segment_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_white_left_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_white_left_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_jobdetails.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\jobdetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_square_button_taxi.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\square_button_taxi.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radio_colors.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable\\radio_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_grey_right.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_grey_right.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_square_button_find_rank.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\square_button_find_rank.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo_taxi_co.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\logo_taxi_co.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_status_icon_successful_pickup.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\status_icon_successful_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_get_id.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\button_get_id.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_android_icon.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\android_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_white_left_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_white_left_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_continue.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\button_continue.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_white_left.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_white_left.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_grey_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_grey_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_telephone.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\icon_telephone.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_small_button_refresh.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\small_button_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background_item_320x100_status_container.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\background_item_320x100_status_container.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_white_middle_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_white_middle_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_edit_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\button_edit_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_item_job_details_panel.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\background_item_job_details_panel.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_square_button_book_here.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\square_button_book_here.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_item_320x65_status_container.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\background_item_320x65_status_container.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_book.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\button_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_taxi_co.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\logo_taxi_co.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background_item_280x380_back_shade.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\background_item_280x380_back_shade.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_small_button_disclaimer_warning.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\small_button_disclaimer_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_current_loc.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\icon_current_loc.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_status_icon_booking_problem.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\status_icon_booking_problem.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_grey_left_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_grey_left_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_item_280x120.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\background_item_280x120.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_bookingprocess1.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\bookingprocess1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_square_button_history.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\square_button_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_map_lowlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\icon_map_lowlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_white_middle_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_white_middle_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_item_320x100_status_container.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\background_item_320x100_status_container.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_left.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable\\segment_radio_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_square_button_book_favourites.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\square_button_book_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_grey_left.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_grey_left.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_backshadeexpandable.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\backshadeexpandable.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_cabwatch.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\cabwatch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_status_icon_successful_job.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\status_icon_successful_job.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_white_middle.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_white_middle.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_save_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\button_save_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_status_icon_successful_pickup.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\status_icon_successful_pickup.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_white_right_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_white_right_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_ring_taxi_co.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\button_ring_taxi_co.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash_screen.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_square_button_book_new.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\square_button_book_new.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_rank_finder.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\rank_finder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_white_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_white_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_white_left.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_white_left.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_switchcontroller.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\switchcontroller.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_favourite.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\favourite.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_current_loc.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\icon_current_loc.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_annotation_divider.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\annotation_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_status_icon_successful_job.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\status_icon_successful_job.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_continue_long.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\button_continue_long.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_crimes_logo.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\crimes_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_telephone.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\icon_telephone.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background_item_job_details_set_screen.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\background_item_job_details_set_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tab_jobdetails.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable\\ic_tab_jobdetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_tick_small.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\icon_tick_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_small_button_disclaimer_warning.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\small_button_disclaimer_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_white_right.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_white_right.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_segment_radio_right.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable\\segment_radio_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\layout_historylistitem.xml.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\layout\\historylistitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_white_right_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_white_right_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background_item_280x335_back_shade.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\background_item_280x335_back_shade.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_android_icon.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\android_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_white_right_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_white_right_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_edit_favourite.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\button_edit_favourite.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_new_booking.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\button_new_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_ring_taxi_co.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\button_ring_taxi_co.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_map_lowlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\icon_map_lowlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_square_button_history.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\square_button_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_white_middle_press.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_white_middle_press.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_radio_grey_middle_focus.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_radio_grey_middle_focus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_segment_grey.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\segment_grey.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_square_button_favourites.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\square_button_favourites.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_status_icon_cancelled_booking.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\status_icon_cancelled_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_tick_small.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-hdpi\\icon_tick_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash_screen.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_small_button_add.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\small_button_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_annotation_divider.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\annotation_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_backshadeexpandable.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\backshadeexpandable.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_telephone.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\icon_telephone.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_small_button_disclaimer_warning.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\small_button_disclaimer_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_current_loc.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\icon_current_loc.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_new_booking.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\button_new_booking.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_button_finish.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\button_finish.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_book_lowlight.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\icon_book_lowlight.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_segment_radio_grey_middle.9.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\segment_radio_grey_middle.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_square_button_book_here.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\square_button_book_here.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_tick.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\icon_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_status_icon_looking_for_a_cab.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-mdpi\\status_icon_looking_for_a_cab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_button_get_id.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-xhdpi\\button_get_id.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background_item_job_details_panel.png.flat",
+        "source": "C:\\Users\\Alex Chew\\Desktop\\StGeorgeDiamond1\\app\\src\\main\\res\\drawable-ldpi\\background_item_job_details_panel.png"
+    }
+]

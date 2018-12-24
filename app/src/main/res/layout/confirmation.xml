@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/Confirmation_RelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        
+        <cabcall.stgeorgediamond.Main.Components.GlowPanel
+            android:id="@+id/Confirmation_GlowPanel"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/> 
+            
+        <TextView
+            android:id="@+id/Confirmation_TextField_CrimeStopperText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/Confirmation_TextField_StatusText"
+            android:layout_alignParentTop="true"
+            android:layout_alignRight="@+id/Confirmation_Image_Tick"
+            android:layout_marginTop="120dp"
+            android:gravity="center"
+            android:text="Using a Crime Stoppers Approved Mobile App"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/primarytextcolor"
+            android:textSize="18dp" />
+
+        <ImageView
+            android:id="@+id/Confirmation_Image_Tick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="220dp"
+            android:src="@drawable/icon_tick_small"
+            android:visibility="invisible" />
+
+        <ProgressBar
+            android:id="@+id/Confirmation_ActivityIndicator"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="220dp"/>
+
+        <TextView
+            android:id="@+id/Confirmation_TextField_StatusText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="50dp"
+            android:text="Booking your Taxi now ..."
+			android:textColor="@color/primarytextcolor"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="15dp" />
+
+        <ImageView
+            android:id="@+id/imageButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Confirmation_TextField_CrimeStopperText"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="44dp"
+            android:src="@drawable/crimes_logo" />
+        
+         
+         
+         <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/Confirmation_Button_FinishButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/button_finish"
+            android:layout_marginLeft="170dp"
+            android:layout_marginTop="365dp" 
+            android:visibility="invisible"/>
+
+         <ImageView
+             android:id="@+id/imageView1"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentLeft="true"
+             android:layout_alignParentBottom="true"
+             android:layout_margin="40dp"
+             android:src="@drawable/logo_taxi_co" />
+
+         
+
+    </RelativeLayout>
+ 
+
+</FrameLayout>

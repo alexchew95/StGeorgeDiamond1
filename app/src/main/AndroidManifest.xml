@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cabcall.stgeorgediamond"
+    android:versionCode="3"
+    android:versionName="2.03" >
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    
+    <uses-configuration android:reqTouchScreen="finger"
+        				android:reqNavigation="nonav"
+        				android:reqKeyboardType="nokeys"
+        				android:reqFiveWayNav="false"
+        				android:reqHardKeyboard="false"></uses-configuration>
+    
+     <supports-screens  android:smallScreens="true"
+         android:normalScreens="true"
+         android:largeScreens="true"
+         android:anyDensity="true"/>
+     
+     
+    <application
+        android:icon="@drawable/android_icon"
+        android:label="@string/app_name" 
+        android:name =".Main.MainApplication">
+        <uses-library android:name="com.google.android.maps"/>
+        <activity
+            android:label="StGeorgeDiamond"
+            android:name=".Main.SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main.HomeScreenActivity" android:label="StGeorgeDiamond" android:screenOrientation="portrait"></activity>
+        <activity android:name=".Main.BookATaxiActivity" android:label="Book a Taxi" android:screenOrientation="portrait"></activity>
+        <activity android:label="Favourites" android:name=".Main.Favourites.FavouriteHome" android:screenOrientation="portrait"></activity>
+        <activity android:name=".Main.History.HistoryActivity" android:label="History" android:screenOrientation="portrait"></activity>
+        <activity android:label="Rank Finder" android:name=".Main.RankFinder.RankFinderActivity" android:screenOrientation="portrait"></activity>
+        
+        <activity android:label="Pickup" android:name=".Main.BookingProcess.BookingProcess1" android:screenOrientation="portrait"></activity>
+        <activity android:label="Trip Details" android:name=".Main.BookingProcess.BookingProcess2" android:screenOrientation="portrait"></activity>
+        <activity android:label="Summary" android:name=".Main.BookingProcess.BookingProcess3" android:screenOrientation="portrait"></activity>
+        <activity android:label="Confirmation" android:name=".Main.BookingProcess.Confirmation" android:screenOrientation="portrait"></activity>
+        <activity android:label="Settings" android:name=".Main.FirstTime" android:screenOrientation="portrait"></activity>
+        <activity android:label="Search" android:name=".Main.BookingProcess.SearchViewController" android:screenOrientation="portrait"></activity>
+        <activity android:label="Job Details" android:name=".Main.History.JobDetails" android:screenOrientation="portrait"></activity>
+        <activity android:label="Favourite Details" android:name=".Main.Favourites.FavouriteDetails" android:screenOrientation="portrait"></activity>
+        <activity android:label="Fare Estimate" android:name=".Main.BookingProcess.Disclaimer" android:screenOrientation="portrait"></activity>
+        <activity android:label="Switch Controller" android:name=".Main.History.SwitchController" android:screenOrientation="portrait"></activity>
+         <activity android:label="Cab Watch" android:name=".Main.History.CabWatch" android:screenOrientation="portrait"></activity>
+         <activity android:label="Book Here" android:name=".Main.BookingProcess.BookHere" android:screenOrientation="portrait"></activity>
+    </application>
+
+</manifest>

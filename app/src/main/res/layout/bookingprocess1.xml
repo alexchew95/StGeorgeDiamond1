@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/frameLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        
+          <cabcall.stgeorgediamond.Main.Components.GlowPanel
+            android:id="@+id/panel1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+        
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/BookingProcess1_RelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <EditText
+            android:id="@+id/BookingProcess1_TextField_Street"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="30dp"
+            android:inputType="text">
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/BookingProcess1_TextField_Suburb"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/BookingProcess1_TextField_Street"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="38dp" 
+            android:inputType="text"/>
+        
+        <EditText
+            android:id="@+id/BookingProcess1_TextField_Place"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/BookingProcess1_TextField_Street"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="38dp" 
+            android:inputType="text"
+            android:visibility="invisible"/>
+        <EditText
+            android:id="@+id/BookingProcess1_TextField_StreetNo"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/BookingProcess1_TextField_Suburb"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="38dp" 
+            android:inputType="number"/>
+        <EditText
+            android:id="@+id/BookingProcess1_TextField_PickupInfo"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/BookingProcess1_TextField_StreetNo"
+            android:layout_marginLeft="150dp"
+            android:layout_marginTop="38dp" 
+            android:inputType="text"/>
+
+        <TextView
+            android:id="@+id/BookingProcess1_Label_Street"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/BookingProcess1_TextField_Street"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="8dp"
+            android:text="Street"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primarytextcolor" />
+
+        <TextView
+            android:id="@+id/BookingProcess1_Label_Suburb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/BookingProcess1_TextField_Suburb"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="8dp"
+            android:text="Suburb"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primarytextcolor" />
+        
+        <TextView
+            android:id="@+id/BookingProcess1_Label_Place"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/BookingProcess1_TextField_Place"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="8dp"
+            android:text="Place"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primarytextcolor" 
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/BookingProcess1_Label_StreetNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/BookingProcess1_TextField_StreetNo"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="8dp"
+            android:text="Street No."
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primarytextcolor" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/BookingProcess1_TextField_PickupInfo"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="0dp"
+            android:text="Driver Instructions"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/primarytextcolor" />
+        
+        <cabcall.stgeorgediamond.Main.Components.SegmentedRadioGroup
+            android:id="@+id/BookingProcess1_RadioGroup_PlaceMode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_centerHorizontal="true"
+			android:layout_below="@+id/BookingProcess1_Button_Continue"
+            android:checkedButton="@+id/BookingProcess1_Segment_StreetMode" 
+            android:orientation = "horizontal">
+
+            <RadioButton
+                android:id="@+id/BookingProcess1_Segment_StreetMode"
+                android:minWidth="125dp"
+                android:minHeight="30dp"
+                android:button="@null"
+                android:checked="true"
+                android:gravity="center"
+                android:text="Address"
+                android:textAppearance="?android:attr/textAppearanceSmall" 
+                />
+
+            <RadioButton
+                android:id="@+id/BookingProcess1_Segment_PlaceMode"
+                android:minWidth="125dp"
+                android:minHeight="30dp"
+                android:button="@null"
+                android:gravity="center"
+                android:text="Place"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+        </cabcall.stgeorgediamond.Main.Components.SegmentedRadioGroup>
+
+        <cabcall.stgeorgediamond.Main.Components.ClickableButton
+            android:id="@+id/BookingProcess1_Button_Continue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/BookingProcess1_TextField_PickupInfo"
+            android:layout_below="@+id/BookingProcess1_TextField_PickupInfo"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/button_continue" />
+
+    </RelativeLayout>
+
+</FrameLayout>
+
+    

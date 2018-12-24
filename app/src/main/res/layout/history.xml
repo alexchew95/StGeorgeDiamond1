@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/History_ListView"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:cacheColorHint="#00000000"
+        android:divider="#FFFFFFFF"
+        android:listSelector="@drawable/customlistitemstyle" >
+    </ListView>
+
+    <ProgressBar
+        android:id="@+id/History_ActivityIndicator"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent = "true" />
+
+    <cabcall.stgeorgediamond.Main.Components.SegmentedRadioGroup
+        android:id="@+id/History_SegmentedControl"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_below = "@id/History_ListView"
+        android:orientation = "horizontal" 
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft = "5dp"
+        android:layout_alignParentLeft = "true"
+        android:layout_alignParentRight = "true">
+
+        <RadioButton
+            android:id="@+id/History_Segment_Current"
+            android:layout_width="155dp"
+            android:layout_height="fill_parent"
+            android:checked="true"
+            android:text="Current"
+            android:button = "@null" 
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+        <RadioButton
+            android:id="@+id/History_Segment_Historic"
+            android:button = "@null"
+            android:layout_width="155dp"
+            android:layout_height="fill_parent"
+            android:text="Historic"
+            android:gravity="center"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    </cabcall.stgeorgediamond.Main.Components.SegmentedRadioGroup>
+
+</RelativeLayout>
+     

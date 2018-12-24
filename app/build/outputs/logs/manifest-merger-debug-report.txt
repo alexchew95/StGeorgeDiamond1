@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:9:22-66
+uses-configuration
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:11:5-15:66
+	android:reqKeyboardType
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:13:13-45
+	android:reqHardKeyboard
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:15:13-44
+	android:reqNavigation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:12:13-42
+	android:reqFiveWayNav
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:14:13-42
+	android:reqTouchScreen
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:11:25-56
+supports-screens
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:17:6-20:37
+	android:largeScreens
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:19:10-37
+	android:smallScreens
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:17:25-52
+	android:normalScreens
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:18:10-38
+	android:anyDensity
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:20:10-35
+application
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:23:5-55:19
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:24:9-46
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:26:9-46
+uses-library#com.google.android.maps
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:27:9-63
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:27:23-61
+activity#cabcall.stgeorgediamond.Main.SplashActivity
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:30:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:34:27-74
+activity#cabcall.stgeorgediamond.Main.HomeScreenActivity
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:37:9-139
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:37:91-127
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:37:59-90
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:37:19-58
+activity#cabcall.stgeorgediamond.Main.BookATaxiActivity
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:38:9-134
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:38:86-122
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:38:58-85
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:38:19-57
+activity#cabcall.stgeorgediamond.Main.Favourites.FavouriteHome
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:39:9-140
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:39:92-128
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:39:19-45
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:39:46-91
+activity#cabcall.stgeorgediamond.Main.History.HistoryActivity
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:40:9-136
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:40:88-124
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:40:64-87
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:40:19-63
+activity#cabcall.stgeorgediamond.Main.RankFinder.RankFinderActivity
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:41:9-146
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:41:98-134
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:41:19-46
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:41:47-97
+activity#cabcall.stgeorgediamond.Main.BookingProcess.BookingProcess1
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:43:9-142
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:43:94-130
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:43:19-41
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:43:42-93
+activity#cabcall.stgeorgediamond.Main.BookingProcess.BookingProcess2
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:44:9-148
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:44:100-136
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:44:19-47
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:44:48-99
+activity#cabcall.stgeorgediamond.Main.BookingProcess.BookingProcess3
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:45:9-143
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:45:95-131
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:45:19-42
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:45:43-94
+activity#cabcall.stgeorgediamond.Main.BookingProcess.Confirmation
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:46:9-145
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:46:97-133
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:46:19-47
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:46:48-96
+activity#cabcall.stgeorgediamond.Main.FirstTime
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:47:9-123
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:47:75-111
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:47:19-43
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:47:44-74
+activity#cabcall.stgeorgediamond.Main.BookingProcess.SearchViewController
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:48:9-147
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:48:99-135
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:48:19-41
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:48:42-98
+activity#cabcall.stgeorgediamond.Main.History.JobDetails
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:49:9-135
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:49:87-123
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:49:19-46
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:49:47-86
+activity#cabcall.stgeorgediamond.Main.Favourites.FavouriteDetails
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:50:9-150
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:50:102-138
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:50:19-52
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:50:53-101
+activity#cabcall.stgeorgediamond.Main.BookingProcess.Disclaimer
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:51:9-144
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:51:96-132
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:51:19-48
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:51:49-95
+activity#cabcall.stgeorgediamond.Main.History.SwitchController
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:52:9-147
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:52:99-135
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:52:19-52
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:52:53-98
+activity#cabcall.stgeorgediamond.Main.History.CabWatch
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:53:10-132
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:53:84-120
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:53:20-45
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:53:46-83
+activity#cabcall.stgeorgediamond.Main.BookingProcess.BookHere
+ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:54:10-139
+	android:screenOrientation
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:54:91-127
+	android:label
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:54:20-45
+	android:name
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml:54:46-90
+uses-sdk
+INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Alex Chew\Desktop\StGeorgeDiamond1\app\src\main\AndroidManifest.xml

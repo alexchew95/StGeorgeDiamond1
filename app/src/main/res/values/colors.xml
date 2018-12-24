@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttonclickcolor">#87313131</color>
+	<color name="backgroundcolorcontext">#00580065</color>
+	<color name="listviewbackground">#CCBEB9C0</color>
+	<color name="listviewbackgrounddark">#33000000</color>
+	<color name="backshadecolor">#2EEECCFF</color>
+    <color name="primarytextcolor">#FFFFFFFF</color>
+    <color name="secondarytextcolor">#FFFF1C16</color>
+    <color name="jobdetailsprimarytextcolor">#FF000000</color>
+    <color name="jobdetailssecondarytextcolor">#FFFFFFFF</color>
+    <color name="jobdetailsprimaryshadowcolor">#FFFFFFFF</color>
+    <color name="jobdetailssecondaryshadowcolor">#FF3F3F3F</color>    
+    <color name="annotationprimarytextcolor">#FF696969</color>
+    <color name="annotationsecondarytextcolor">#FF6d6d6d</color>
+    <color name="maplinecolor">#FF7F007F</color>
+</resources>
